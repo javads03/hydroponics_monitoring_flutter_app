@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "130333578524",
+    "project_id": "groverzmart-31334",
+    "storage_bucket": "groverzmart-31334.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130333578524:android:ba37e9b7453b2a461c56d9",
+        "android_client_info": {
+          "package_name": "com.example.gvz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6wgOjIolbE8AjrS2S2y1UrdCmXApXoIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

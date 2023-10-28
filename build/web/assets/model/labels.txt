@@ -1,0 +1,4 @@
+0 not leaf
+1 normal leaf
+2 diseased leaf
+3 dead leaf
